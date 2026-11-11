@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Qibla Compass</string>
+    <string name="qibla">Qibla</string>
+    <string name="direction_to_kaaba">Direction to Kaaba</string>
+    <string name="next_prayer_caps">NEXT PRAYER</string>
+    <string name="widget_prayer_desc">Next prayer with countdown and today\'s times</string>
+    <string name="widget_qibla_desc">Qibla bearing for your city</string>
+</resources>
